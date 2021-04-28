@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-26T11:08:11.494655200Z</date>
+  <millis>1619435291494</millis>
+  <nanos>655200</nanos>
+  <sequence>0</sequence>
+  <logger>com.zhangzemin</logger>
+  <level>SEVERE</level>
+  <class>com.zhangzemin.JULTest</class>
+  <method>testLogProperties</method>
+  <thread>1</thread>
+  <message>severe</message>
+</record>
+<record>
+  <date>2021-04-26T11:08:11.532552800Z</date>
+  <millis>1619435291532</millis>
+  <nanos>552800</nanos>
+  <sequence>1</sequence>
+  <logger>com.zhangzemin</logger>
+  <level>WARNING</level>
+  <class>com.zhangzemin.JULTest</class>
+  <method>testLogProperties</method>
+  <thread>1</thread>
+  <message>warning</message>
+</record>
+<record>
+  <date>2021-04-26T11:08:11.533550400Z</date>
+  <millis>1619435291533</millis>
+  <nanos>550400</nanos>
+  <sequence>2</sequence>
+  <logger>com.zhangzemin</logger>
+  <level>INFO</level>
+  <class>com.zhangzemin.JULTest</class>
+  <method>testLogProperties</method>
+  <thread>1</thread>
+  <message>info</message>
+</record>
+<record>
+  <date>2021-04-26T11:08:11.533550400Z</date>
+  <millis>1619435291533</millis>
+  <nanos>550400</nanos>
+  <sequence>3</sequence>
+  <logger>com.zhangzemin</logger>
+  <level>CONFIG</level>
+  <class>com.zhangzemin.JULTest</class>
+  <method>testLogProperties</method>
+  <thread>1</thread>
+  <message>config</message>
+</record>
+<record>
+  <date>2021-04-26T11:08:11.535545600Z</date>
+  <millis>1619435291535</millis>
+  <nanos>545600</nanos>
+  <sequence>4</sequence>
+  <logger>com.zhangzemin</logger>
+  <level>FINE</level>
+  <class>com.zhangzemin.JULTest</class>
+  <method>testLogProperties</method>
+  <thread>1</thread>
+  <message>fine</message>
+</record>
+<record>
+  <date>2021-04-26T11:08:11.535545600Z</date>
+  <millis>1619435291535</millis>
+  <nanos>545600</nanos>
+  <sequence>5</sequence>
+  <logger>com.zhangzemin</logger>
+  <level>FINER</level>
+  <class>com.zhangzemin.JULTest</class>
+  <method>testLogProperties</method>
+  <thread>1</thread>
+  <message>finer</message>
+</record>
+<record>
+  <date>2021-04-26T11:08:11.536543Z</date>
+  <millis>1619435291536</millis>
+  <nanos>543000</nanos>
+  <sequence>6</sequence>
+  <logger>com.zhangzemin</logger>
+  <level>FINEST</level>
+  <class>com.zhangzemin.JULTest</class>
+  <method>testLogProperties</method>
+  <thread>1</thread>
+  <message>logger</message>
+</record>
+</log>
+4月 27, 2021 12:43:11 下午 com.zhangzemin.JULTest testLogProperties
+严重: severe
+4月 27, 2021 12:43:11 下午 com.zhangzemin.JULTest testLogProperties
+警告: warning
+4月 27, 2021 12:43:11 下午 com.zhangzemin.JULTest testLogProperties
+信息: info
+4月 27, 2021 12:43:11 下午 com.zhangzemin.JULTest testLogProperties
+配置: config
+4月 27, 2021 12:43:11 下午 com.zhangzemin.JULTest testLogProperties
+详细: fine
+4月 27, 2021 12:43:11 下午 com.zhangzemin.JULTest testLogProperties
+较详细: finer
+4月 27, 2021 12:43:11 下午 com.zhangzemin.JULTest testLogProperties
+非常详细: logger

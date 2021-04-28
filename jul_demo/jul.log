@@ -1,0 +1,14 @@
+4月 26, 2021 5:10:57 下午 com.zhangzemin.JULTest testLogConfig
+严重: severe
+4月 26, 2021 5:10:57 下午 com.zhangzemin.JULTest testLogConfig
+警告: warning
+4月 26, 2021 5:10:57 下午 com.zhangzemin.JULTest testLogConfig
+信息: info
+4月 26, 2021 5:10:57 下午 com.zhangzemin.JULTest testLogConfig
+配置: config
+4月 26, 2021 5:10:57 下午 com.zhangzemin.JULTest testLogConfig
+详细: fine
+4月 26, 2021 5:10:57 下午 com.zhangzemin.JULTest testLogConfig
+较详细: finer
+4月 26, 2021 5:10:57 下午 com.zhangzemin.JULTest testLogConfig
+非常详细: logger
